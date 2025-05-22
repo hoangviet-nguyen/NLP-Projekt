@@ -1,0 +1,10 @@
+dasets
+huggingface
+matplotlib
+seaborn
+ipykernek
+ipywidgets
+numpy
+pandas
+torch
+torchaudio
