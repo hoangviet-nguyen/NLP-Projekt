@@ -2,9 +2,14 @@ datasets
 huggingface
 matplotlib
 seaborn
-ipykernek
+ipykernel
 ipywidgets
 numpy
 pandas
 torch
 torchaudio
+ 
+huggingface_hub
+transformers
+soundfile
+jiwer
